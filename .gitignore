@@ -1,0 +1,5 @@
+.env
+academicRag/
+__pycache__/
+academic_faiss_index/
+papers/
